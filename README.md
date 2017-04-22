@@ -1,4 +1,7 @@
-# test coverage for  [source-map-explorer (v1.3.3)](https://github.com/danvk/source-map-explorer#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-source-map-explorer.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-source-map-explorer) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-source-map-explorer.svg)](https://travis-ci.org/npmtest/node-npmtest-source-map-explorer)
+# npmtest-source-map-explorer
+
+#### basic test coverage for  [source-map-explorer (v1.3.3)](https://github.com/danvk/source-map-explorer#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-source-map-explorer.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-source-map-explorer) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-source-map-explorer.svg)](https://travis-ci.org/npmtest/node-npmtest-source-map-explorer)
+
 #### Analyze and debug space usage through source maps
 
 [![NPM](https://nodei.co/npm/source-map-explorer.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/source-map-explorer)
